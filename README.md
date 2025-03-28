@@ -36,7 +36,7 @@ A modern chat application built with Flutter, featuring real-time local dummy me
 - equatable: ^2.0.7 (Value equality)
 
 
-## Project Structure
+### Directory Structure
 
 lib/
 ├── bloc/
