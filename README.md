@@ -37,7 +37,7 @@ A modern chat application built with Flutter, featuring real-time local dummy me
 
 
 ### Directory Structure
-
+```
 lib/
 ├── bloc/
 │   ├── chat_screen_bloc.dart
@@ -65,6 +65,7 @@ lib/
 │   ├── chat_bubble.dart
 │   └── chat_input_field.dart
 └── main.dart
+```
 
 
 ## Getting Started
